@@ -293,10 +293,11 @@ IBM – Introduction to Computer Vision & Image Processing
 Completed by Vinay Kartheek Bathala
 Grade: 100%
 
-👤 Author
+#👤 Author
 
 Vinay Kartheek Bathala
-[VINAY KARTHEEK BATHALA -- LINKEDIN](https://www.linkedin.com/in/bathalavinaykartheek/)
-GitHub: https://github.com/Rannadeer03
 
-Email: rannadeer2006@gmail.com
+[VINAY KARTHEEK BATHALA -- LINKEDIN](https://www.linkedin.com/in/bathalavinaykartheek/)
+GitHub (https://github.com/vnkrthk08)
+
+Email: vinaykartheek.bathala@gmail.com
